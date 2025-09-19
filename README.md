@@ -1,5 +1,16 @@
-<h1 align="center">Hi there, I'm Ogulcan Erdag 👋</h1>
-<h3 align="center">Full Stack Developer | DevOps Engineer in Training</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=32&duration=2400&pause=600&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ogulcan+Erdag+👋"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=2400&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+|+DevOps+Engineer+in+Training;Always+Learning+|+Open+for+Opportunities"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
@@ -38,9 +49,9 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 ---
 
 ### 💡 Currently Exploring
-- CI/CD Pipelines with GitHub Actions
-- Advanced AWS (EKS, ECS, Lambda)
-- Kubernetes & Terraform
+- CI/CD Pipelines with GitHub Actions  
+- Advanced AWS (EKS, ECS, Lambda)  
+- Kubernetes & Terraform  
 
 ---
 
@@ -50,14 +61,9 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 
 ---
 
-### ⌨ Typing Animation
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Full+Stack+Developer;DevOps+Engineer+in+Training;Always+Learning)](https://git.io/typing-svg)
-
----
-
 ### 🚀 Featured Projects
-- [Coderr (Backend)](https://github.com/OgulcanErdag/Coderr)
-- [Videoflix](https://github.com/OgulcanErdag/Videoflix)
-- [Join Project](https://github.com/OgulcanErdag/Join)
+- [Coderr (Backend)](https://github.com/OgulcanErdag/Coderr)  
+- [Videoflix](https://github.com/OgulcanErdag/Videoflix)  
+- [Join Project](https://github.com/OgulcanErdag/Join)  
 
 ---
