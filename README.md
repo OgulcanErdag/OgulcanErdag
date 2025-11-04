@@ -16,7 +16,7 @@
 
 ### ✨ About Me
 I'm a **Full Stack Developer** with a background in **Frontend (Angular, TypeScript, JavaScript, HTML, CSS/SCSS)** and **Backend (Python, Django, DRF, PostgreSQL)**.  
-Currently, I am completing an **Intensive DevOps Program**, where I focus on **Docker, Kubernetes, CI/CD, AWS, Terraform, Cloud and Linux**.  
+Currently, I am completing an **Intensive DevOps Program**, where I focus on **Docker, Kubernetes, CI/CD, AWS, Terraform, Cloud, Azure and Linux**.  
 
 My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack Development** background.  
 
@@ -46,6 +46,7 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
