@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+|+Cloud+%26+DevOps+Journey;Always+Learning+|+Open+for+Opportunities"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+|+DevOps+Engineer+in+Training;Always+Learning+|+Open+for+Opportunities"
     alt="Typing SVG"
   />
 </p>
@@ -15,17 +15,10 @@
 ---
 
 ### ✨ About Me
-I am a **Full Stack Developer** skilled in **Angular, TypeScript, Python, Django, and PostgreSQL**, currently strengthening my expertise in **Cloud and DevOps Engineering**.
+I'm a **Full Stack Developer** with a background in **Frontend (Angular, TypeScript, JavaScript, HTML, CSS/SCSS)** and **Backend (Python, Django, DRF, PostgreSQL)**.  
+Currently, I am completing an **Intensive DevOps Program**, where I focus on **Docker, Kubernetes, CI/CD, AWS, Terraform, Cloud, Azure and Linux**.  
 
-I work across the full stack and modern infrastructure stack, including:
-
-- Backend APIs (Django, DRF)
-- Frontend SPA development (Angular, TS)
-- Containerization & Orchestration (Docker, Kubernetes)
-- CI/CD & Automation (GitHub Actions, Linux)
-- Cloud Platforms (AWS & Azure)
-
-My long-term goal is to build scalable systems and work in **Cloud/DevOps Engineering** while maintaining a strong full-stack capability.
+My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack Development** background.  
 
 ---
 
@@ -49,6 +42,7 @@ My long-term goal is to build scalable systems and work in **Cloud/DevOps Engine
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -57,34 +51,21 @@ My long-term goal is to build scalable systems and work in **Cloud/DevOps Engine
 ---
 
 ### 💡 Currently Exploring
-- CI/CD automation & pipelines  
-- AWS (EKS, ECS, Lambda, S3, EC2, CloudFront, IAM security)
-- Kubernetes & Terraform Infrastructure as Code  
+- CI/CD Pipelines with GitHub Actions  
+- Advanced AWS (EKS, ECS, Lambda)  
+- Kubernetes & Terraform  
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OgulcanErdag&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OgulcanErdag&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgulcanErdag&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
-</p>
+![Ogulcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OgulcanErdag&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgulcanErdag&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Coderr](https://github.com/OgulcanErdag/Coderr) | Freelance platform backend | Django, DRF, Celery, JWT, PostgreSQL, Docker |
-| [Videoflix](https://github.com/OgulcanErdag/Videoflix) | Video streaming platform w/ HLS | Angular, Django, Redis, Celery, Nginx |
-| [Join Project](https://github.com/OgulcanErdag/Join) | Task management application | Vanilla JS, Firebase-like UI |
+- [Coderr (Backend)](https://github.com/OgulcanErdag/Coderr)  
+- [Videoflix](https://github.com/OgulcanErdag/Videoflix)  
+- [Join Project](https://github.com/OgulcanErdag/Join)  
 
 ---
-
-🔥 Feel free to connect — always open to collaboration and new opportunities!
-
