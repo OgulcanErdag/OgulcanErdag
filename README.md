@@ -43,6 +43,7 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
 ![Ansible](https://skillicons.dev/icons?i=ansible)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![AWS](https://skillicons.dev/icons?i=aws)
