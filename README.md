@@ -25,7 +25,7 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 ### 🛠 Tech Stack
 
 #### 🚀 Frontend
-[Angular](https://skillicons.dev/icons?i=angular)
+![Angular](https://skillicons.dev/icons?i=angular)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
