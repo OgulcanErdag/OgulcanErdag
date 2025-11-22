@@ -36,6 +36,7 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
 
 #### ☁ DevOps & Tools
 ![Docker](https://skillicons.dev/icons?i=docker)
