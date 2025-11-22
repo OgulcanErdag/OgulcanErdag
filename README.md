@@ -15,10 +15,10 @@
 ---
 
 ### ✨ About Me
-I'm a **Full Stack Developer** with a background in **Frontend (Angular, TypeScript, JavaScript, HTML, CSS/SCSS)** and **Backend (Python, Django, DRF, PostgreSQL)**.  
-Currently, I am completing an **Intensive DevOps Program**, where I focus on **Docker, Kubernetes, CI/CD, AWS, Terraform, Cloud, Azure and Linux**.  
+I'm a **Full Stack Developer** with a strong foundation in **Frontend (Angular, TypeScript, JavaScript, HTML, CSS/SCSS)** and **Backend (Python, Django, DRF, PostgreSQL)**.  
+Currently completing an **Intensive DevOps Program**, focused on **AWS Cloud, Docker, Kubernetes, CI/CD, Terraform, Azure, and Linux**.  
 
-My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack Development** background.  
+My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack background.
 
 ---
 
@@ -35,8 +35,10 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 #### 🔧 Backend
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/djangorestframework.svg" width="48" />
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" width="48" />
 
 #### ☁ DevOps & Tools
 ![Docker](https://skillicons.dev/icons?i=docker)
@@ -51,45 +53,45 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 
 ---
 
-### 💡 Currently Exploring
+### 💡 Currently Exploring (Full-Stack + Cloud + DevOps)
 
-🔧 DevOps • Cloud • Automation • Scalability
+#### 🖥 Full-Stack Development  
+- Angular (v17–18) • TypeScript • JavaScript  
+- HTML / CSS / SCSS  
+- Python • Django • DRF  
+- PostgreSQL • Redis • Celery  
+- Building scalable REST APIs, authentication, modular architecture  
 
-🚀 CI/CD & Automation
+#### ☁ AWS Cloud (Hands-On)  
+- **Compute & Scaling:** EC2, Launch Templates, Auto Scaling Groups  
+- **Load Balancing:** ALB, NLB, Target Groups  
+- **Storage & CDN:** S3, CloudFront, EFS  
+- **Networking:** VPC, Subnets, Routing, NAT, IGW, Route53  
+- **Databases:** RDS, DynamoDB  
+- **Serverless:** Lambda, API Gateway, EventBridge  
+- **Messaging:** SNS, SQS, Kinesis  
+- **Monitoring:** CloudWatch  
+- **Automation:** AWS CLI, Boto3, CloudFormation  
+- **Security:** IAM, Organizations, WAF  
 
-GitHub Actions ile production-ready pipeline mimarisi
+#### 🛠 DevOps Engineering  
+- Terraform (modular IaC, remote state)  
+- Docker (multi-stage builds, optimizations)  
+- Kubernetes (Deployments, Services, Ingress, HPA)  
+- Jenkins (CI/CD automation)  
+- Ansible (configuration management)  
+- ECR, ECS  
+- Prometheus, Grafana, ELK  
+- Bash / Shell scripting  
 
-Automated testing, build & deploy stages
-
-Secret management, caching optimizations, pipeline hardening
-
-☁ AWS Advanced Work
-
-EKS cluster provisioning & deployment
-
-ECS Fargate + ALB setups
-
-Lambda + EventBridge + SQS ile event-driven mimari
-
-CloudWatch Metrics, Logs, Alarms, Dashboards
-
-🏗 Infrastructure as Code
-
-Terraform: modular design, remote backend, state locking
-
-AWS VPC, Subnets, Routing, Security Groups
-
-IAM poliçe optimizasyonu (least privilege)
-
-🐳 Containers & Kubernetes
-
-Container lifecycle, multi-stage Docker builds
-
-Kubernetes deployments, autoscaling, rolling updates
-
-Ingress controllers, secrets, configmaps
-
-Observability tools (Prometheus, Grafana)
+#### 🔷 Azure Fundamentals  
+- Azure VMs, VM Scale Sets  
+- Virtual Networks & Load Balancer  
+- Storage Accounts  
+- Azure SQL Databases  
+- Azure Functions, Container Services  
+- Entra ID, RBAC  
+- ARM Templates & Azure CLI  
 
 ---
 
