@@ -54,7 +54,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 ### 💡 Currently Exploring (Full-Stack + Cloud + DevOps)
 
 #### 🖥 Full-Stack Development  
-- Angular (v17–18) • TypeScript • JavaScript  
+- Angular (v17–20) • TypeScript • JavaScript  
 - HTML / CSS / SCSS  
 - Python • Django • DRF  
 - PostgreSQL • Redis • Celery  
