@@ -52,9 +52,44 @@ My long-term goal is to work as a **DevOps Engineer** with a strong **Full Stack
 ---
 
 ### 💡 Currently Exploring
-- CI/CD Pipelines with GitHub Actions  
-- Advanced AWS (EKS, ECS, Lambda)  
-- Kubernetes & Terraform  
+
+🔧 DevOps • Cloud • Automation • Scalability
+
+🚀 CI/CD & Automation
+
+GitHub Actions ile production-ready pipeline mimarisi
+
+Automated testing, build & deploy stages
+
+Secret management, caching optimizations, pipeline hardening
+
+☁ AWS Advanced Work
+
+EKS cluster provisioning & deployment
+
+ECS Fargate + ALB setups
+
+Lambda + EventBridge + SQS ile event-driven mimari
+
+CloudWatch Metrics, Logs, Alarms, Dashboards
+
+🏗 Infrastructure as Code
+
+Terraform: modular design, remote backend, state locking
+
+AWS VPC, Subnets, Routing, Security Groups
+
+IAM poliçe optimizasyonu (least privilege)
+
+🐳 Containers & Kubernetes
+
+Container lifecycle, multi-stage Docker builds
+
+Kubernetes deployments, autoscaling, rolling updates
+
+Ingress controllers, secrets, configmaps
+
+Observability tools (Prometheus, Grafana)
 
 ---
 
