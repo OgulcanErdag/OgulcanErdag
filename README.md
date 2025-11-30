@@ -92,13 +92,14 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 - ARM Templates & Azure CLI  
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <!-- STREAK -->
 <p align="center">
   <img 
        src="https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical" 
-       height="200" 
+       height="210"
+       style="border-radius: 12px; box-shadow: 0 0 15px #ff00e6, 0 0 30px #ff00e6;"
   />
 </p>
 
@@ -111,6 +112,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgulcanErdag&theme=radical" 
          height="200"
+         style="border-radius: 12px; box-shadow: 0 0 15px #00eaff, 0 0 30px #00eaff;"
     />
   </span>
 
@@ -118,6 +120,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OgulcanErdag&theme=radical" 
          height="200"
+         style="border-radius: 12px; box-shadow: 0 0 15px #00eaff, 0 0 30px #00eaff;"
     />
   </span>
 
@@ -132,6 +135,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OgulcanErdag&theme=radical" 
          height="200"
+         style="border-radius: 12px; box-shadow: 0 0 15px #ff00e6, 0 0 30px #ff00e6;"
     />
   </span>
 
@@ -139,6 +143,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OgulcanErdag&theme=radical&utcOffset=+1" 
          height="200"
+         style="border-radius: 12px; box-shadow: 0 0 15px #ff00e6, 0 0 30px #ff00e6;"
     />
   </span>
 
@@ -146,11 +151,12 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 
 <br/>
 
-<!-- OPTIONAL: ACTIVITY GRAPH (FULL WIDTH) -->
+<!-- ACTIVITY GRAPH FULL WIDTH -->
 <p align="center">
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=OgulcanErdag&theme=react-dark&hide_border=true&area=true" 
        width="95%"
+       style="border-radius: 12px; box-shadow: 0 0 20px #00eaff, 0 0 40px #00eaff;"
   />
 </p>
 
