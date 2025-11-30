@@ -94,9 +94,10 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 ---
 
 ### 📊 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/OgulcanErdag?style=for-the-badge&color=ff0055)
-![GitHub stars](https://img.shields.io/github/stars/OgulcanErdag?style=for-the-badge&color=ff9900)
-![Repos](https://img.shields.io/badge/Repositories-Count-blue?style=for-the-badge)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OgulcanErdag&layout=compact&theme=radical)
+![Metrics](https://metrics.lecoq.io/OgulcanErdag?template=terminal&base.header=0&languages=1&languages.limit=8)
 
 ---
 
