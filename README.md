@@ -106,11 +106,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 
 <!-- TOP LANGS + METRICS -->
 <p align="center">
-  <img 
-       src="https://raw.githubusercontent.com/github-readme-stats-dev/github-readme-stats/master/api/top-langs/?username=OgulcanErdag&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       height="165"
-  />
+<img src="https://metrics.lecoq.io/OgulcanErdag?template=languages&base.header=0&languages=1&languages.limit=8&theme=dark" height="165" />
   
   <img 
        src="https://metrics.lecoq.io/OgulcanErdag?template=terminal&base.header=0&languages=1&languages.limit=6&config.timezone=Europe%2FBerlin" 
