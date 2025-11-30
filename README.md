@@ -95,14 +95,30 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 
 ### 📊 GitHub Stats
 
+<!-- STREAK -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical" alt="GitHub Streak" />
+  <img 
+       src="https://streak-stats.demolab.com/?user=OgulcanErdag&theme=radical" 
+       alt="GitHub Streak" 
+       height="210"
+  />
 </p>
 
+<!-- TOP LANGS + METRICS -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OgulcanErdag&layout=compact&theme=radical" alt="Top Langs" />
-  <img height="150" src="https://metrics.lecoq.io/OgulcanErdag?template=classic&base.header=0&languages=1&languages.limit=6&config.timezone=Europe/Berlin" alt="Metrics" />
+  <img 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OgulcanErdag&layout=compact&theme=radical" 
+       alt="Top Languages" 
+       height="165"
+  />
+  
+  <img 
+       src="https://metrics.lecoq.io/OgulcanErdag?template=terminal&base.header=0&languages=1&languages.limit=6&config.timezone=Europe%2FBerlin" 
+       alt="Metrics" 
+       height="165"
+  />
 </p>
+
 
 ---
 
