@@ -92,17 +92,18 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 - ARM Templates & Azure CLI  
 
 ---
-### 📊 GitHub Stats 
-
-<!-- STREAK -->
-### 📊 GitHub Stats (Neon Edition)
+### 📊 GitHub Stats
 
 <!-- STREAK -->
 <p align="center">
   <img 
        src="https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical" 
        height="210"
-       style="border-radius: 12px; box-shadow: 0 0 15px #ff00e6, 0 0 30px #ff00e6;"
+       style="border-radius: 12px;
+              box-shadow:
+                0 0 6px rgba(255,255,255,0.6),
+                0 0 12px rgba(255,255,255,0.5),
+                0 0 18px rgba(0, 200, 255, 0.4);"
   />
 </p>
 
@@ -115,7 +116,11 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgulcanErdag&theme=radical" 
          height="200"
-         style="border-radius: 12px; box-shadow: 0 0 15px #00eaff, 0 0 30px #00eaff;"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
     />
   </span>
 
@@ -123,7 +128,11 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OgulcanErdag&theme=radical" 
          height="200"
-         style="border-radius: 12px; box-shadow: 0 0 15px #00eaff, 0 0 30px #00eaff;"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
     />
   </span>
 
@@ -138,7 +147,11 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OgulcanErdag&theme=radical" 
          height="200"
-         style="border-radius: 12px; box-shadow: 0 0 15px #ff00e6, 0 0 30px #ff00e6;"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
     />
   </span>
 
@@ -146,7 +159,11 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
     <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OgulcanErdag&theme=radical&utcOffset=+1" 
          height="200"
-         style="border-radius: 12px; box-shadow: 0 0 15px #ff00e6, 0 0 30px #ff00e6;"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
     />
   </span>
 
@@ -159,7 +176,11 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=OgulcanErdag&theme=react-dark&hide_border=true&area=true" 
        width="95%"
-       style="border-radius: 12px; box-shadow: 0 0 20px #00eaff, 0 0 40px #00eaff;"
+       style="border-radius: 12px;
+              box-shadow:
+                0 0 6px rgba(255,255,255,0.6),
+                0 0 12px rgba(255,255,255,0.5),
+                0 0 18px rgba(0, 200, 255, 0.4);"
   />
 </p>
 
