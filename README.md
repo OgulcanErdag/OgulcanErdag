@@ -95,6 +95,9 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 ### 📊 GitHub Stats 
 
 <!-- STREAK -->
+### 📊 GitHub Stats (Neon Edition)
+
+<!-- STREAK -->
 <p align="center">
   <img 
        src="https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical" 
@@ -159,6 +162,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
        style="border-radius: 12px; box-shadow: 0 0 20px #00eaff, 0 0 40px #00eaff;"
   />
 </p>
+
 
 ---
 
