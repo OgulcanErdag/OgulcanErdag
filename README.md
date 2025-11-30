@@ -101,6 +101,7 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
        src="https://streak-stats.demolab.com/?user=OgulcanErdag&theme=radical" 
        alt="GitHub Streak" 
        height="210"
+       width="105"
   />
 </p>
 
