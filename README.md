@@ -92,67 +92,67 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 - ARM Templates & Azure CLI  
 
 ---
-
 ### 📊 GitHub Stats
 
-<!-- MAIN STREAK -->
+<!-- STREAK -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=OgulcanErdag&theme=radical" height="210" />
+  <img 
+       src="https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical" 
+       height="200" 
+  />
 </p>
 
 <br/>
 
-<!-- 3 COLUMN GRID -->
+<!-- ROW 1 — TOP LANGUAGES BY COMMIT & REPO -->
 <p align="center">
 
-  <!-- LEFT COLUMN — TOP LANGUAGES -->
-  <img 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgulcanErdag&theme=radical"
-       height="200"
-       alt="Top Languages"
-  />
+  <span style="display: inline-block; margin-right: 10px;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgulcanErdag&theme=radical" 
+         height="200"
+    />
+  </span>
 
-  <!-- CENTER COLUMN — METRICS TERMINAL -->
-  <img 
-       src="https://metrics.lecoq.io/OgulcanErdag?template=terminal&base.header=0&languages=1&languages.limit=8&config.timezone=Europe%2FBerlin"
-       height="200"
-       alt="Metrics"
-  />
-
-  <!-- RIGHT COLUMN — ACTIVITY / OVERVIEW CARDS -->
-  <img 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OgulcanErdag&theme=radical"
-       height="200"
-       alt="Repo Languages"
-  />
+  <span style="display: inline-block;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OgulcanErdag&theme=radical" 
+         height="200"
+    />
+  </span>
 
 </p>
 
 <br/>
 
-<!-- ANIMATED OVERVIEW ROW -->
+<!-- ROW 2 — STATS & COMMITS -->
 <p align="center">
 
-  <img 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OgulcanErdag&theme=radical"
-       height="200"
-       alt="Stats"
-  />
+  <span style="display: inline-block; margin-right: 10px;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OgulcanErdag&theme=radical" 
+         height="200"
+    />
+  </span>
 
-  <img 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OgulcanErdag&theme=radical&utcOffset=+1"
-       height="200"
-       alt="Productive Time"
-  />
-
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=OgulcanErdag&theme=react-dark&hide_border=true&area=true"
-       height="200"
-       alt="Activity Graph"
-  />
+  <span style="display: inline-block;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OgulcanErdag&theme=radical&utcOffset=+1" 
+         height="200"
+    />
+  </span>
 
 </p>
 
+<br/>
+
+<!-- OPTIONAL: ACTIVITY GRAPH (FULL WIDTH) -->
+<p align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=OgulcanErdag&theme=react-dark&hide_border=true&area=true" 
+       width="95%"
+  />
+</p>
 
 ---
 
