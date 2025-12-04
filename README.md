@@ -95,17 +95,16 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 ### 📊 GitHub Stats
 
 <!-- STREAK -->
-<p align="center">
+<div align="center" style="padding: 6px; border-radius: 16px;
+     box-shadow: 0 0 6px rgba(255,255,255,0.6),
+                 0 0 12px rgba(0,200,255,0.5),
+                 0 0 18px rgba(0,200,255,0.4);">
   <img 
-       src="https://streak-stats.demolab.com?user=OgulcanErdag&theme=radical" 
-       height="210"
-       style="border-radius: 12px;
-              box-shadow:
-                0 0 6px rgba(255,255,255,0.6),
-                0 0 12px rgba(255,255,255,0.5),
-                0 0 18px rgba(0, 200, 255, 0.4);"
+    src="https://streak-stats.demolab.com/?user=OgulcanErdag&theme=radical"
+    height="210"
+    style="border-radius: 12px;"
   />
-</p>
+</div>
 
 <br/>
 
