@@ -179,10 +179,3 @@ My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack
 
 
 ---
-
-### 🚀 Featured Projects
-- [Coderr (Backend)](https://github.com/OgulcanErdag/Coderr)  
-- [Videoflix](https://github.com/OgulcanErdag/Videoflix)  
-- [Join Project](https://github.com/OgulcanErdag/Join)  
-
----
