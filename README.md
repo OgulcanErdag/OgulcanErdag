@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+|+DevOps+Engineer+in+Training;Always+Learning+|+Open+for+Opportunities"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+|+AWS-DevOps+Engineer+in+Training;Always+Learning+|+Open+for+Opportunities"
     alt="Typing SVG"
   />
 </p>
@@ -16,7 +16,7 @@
 
 ### ✨ About Me
 I'm a **Full Stack Developer** with a strong foundation in **Frontend (Angular, TypeScript, JavaScript, HTML, CSS/SCSS)** and **Backend (Python, Django, DRF, PostgreSQL)**.  
-Currently completing an **Intensive DevOps Program**, focused on **AWS Cloud, Docker, Kubernetes, CI/CD, Terraform, Azure, and Linux**.  
+Currently completing an **Intensive AWS & DevOps Program**, focused on **AWS Cloud, Docker, Kubernetes, CI/CD, Terraform, Azure, and Linux**.  
 
 My long-term goal is to grow into a **DevOps Engineer** with a strong Full Stack background.
 
